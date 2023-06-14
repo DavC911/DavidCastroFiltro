@@ -1,0 +1,12 @@
+a{
+    cursor: pointer;
+}
+
+li{
+    list-style: none;
+}
+
+body{
+    background-color: rgb(148, 148, 148);
+    background-image: url('images/neon-point.jpeg');
+}
